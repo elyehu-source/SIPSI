@@ -1,5 +1,5 @@
 {
-  "name": "Analizador de Excel con IA",
+  "name": "SIPSI",
   "description": "Sube un archivo Excel y obtén un reporte automático con análisis de IA, gráficos y vista previa de datos.",
   "requestFramePermissions": []
 }
